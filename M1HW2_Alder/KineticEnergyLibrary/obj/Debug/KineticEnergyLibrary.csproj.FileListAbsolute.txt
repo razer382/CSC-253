@@ -1,0 +1,6 @@
+C:\Users\decei\source\repos\M1HW2_Alder\KineticEnergyLibrary\bin\Debug\KineticEnergyLibrary.dll
+C:\Users\decei\source\repos\M1HW2_Alder\KineticEnergyLibrary\bin\Debug\KineticEnergyLibrary.pdb
+C:\Users\decei\source\repos\M1HW2_Alder\KineticEnergyLibrary\obj\Debug\KineticEnergyLibrary.csproj.AssemblyReference.cache
+C:\Users\decei\source\repos\M1HW2_Alder\KineticEnergyLibrary\obj\Debug\KineticEnergyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\decei\source\repos\M1HW2_Alder\KineticEnergyLibrary\obj\Debug\KineticEnergyLibrary.dll
+C:\Users\decei\source\repos\M1HW2_Alder\KineticEnergyLibrary\obj\Debug\KineticEnergyLibrary.pdb
